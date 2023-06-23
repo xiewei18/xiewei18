@@ -25,5 +25,6 @@ Upgrading: `Machine Learning / Deep Learning`
 
 :-)
 
-![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiewei18&count_private=true&show_icons=false&theme=aura_dark)
+![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiewei18&count_private=true&hide_rank=true&show_icons=true&theme=transparent) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiewei18&layout=compact)
