@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...👋
 -->
 
-Hi there! I am currently a Ph.D. Candidate in Environmental Science. Still a bit green but keep ongoing!
+Hi there! I am currently a Ph.D. Candidate in Environmental Science. Still a bit green but keep growthing!
 
 Research focusing on: `Land Use` | `GIS` | `Urban Metabolism` | `System Analysis`
 
