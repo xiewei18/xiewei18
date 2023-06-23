@@ -23,6 +23,11 @@ Capabilities: `GIS/RS` | `SQL (Geospatial)` | `Stastics & Coding (Matlab/Python/
 
 Upgrading: `Machine Learning / Deep Learning`
 
+
+// Find my research via [ResearchGate](https://www.researchgate.net/profile/Wei-Xie-9) or [GoogleScholar](https://scholar.google.com/citations?user=XBUp9EoAAAAJ&hl=en&oi=ao).
+
+// Reach me through [Twitter](https://twitter.com/wxie96) or [Email](mailto:wxie18@fudan.edu.cn).
+
 :-)
 
 ![Wei's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiewei18&count_private=true&hide_rank=true&show_icons=true&theme=transparent) 
